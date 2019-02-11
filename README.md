@@ -45,3 +45,11 @@ https://farm8.staticflickr.com/5005/5356517508_b629917c6c_o.jpg
 https://farm6.staticflickr.com/8484/8209261487_2956776817_o.jpg
 
 ```
+
+## Future Work
+
+* Add concurrency to initial build process
+* Support multiple built indices simultaneously
+* Support multiple models
+* Options for downloading, viewing images
+* Options for traversing index without searching by exact topic
